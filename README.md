@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm LN-09 <br>🔭 I’m currently working as a [....].<br>📚 I'm currently learning front-end development.<br>⚡ In my free time, I enjoy listening to music.</p>
+<p align="left">I'm LN-09 <br>📚 I'm currently learning front-end development.<br>⚡ In my free time, I enjoy listening to music.</p>
 
 ###
 
